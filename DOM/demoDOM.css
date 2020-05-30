@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+.box{
+	padding: 15px;
+	border: 5px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+h1{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    padding-top: 40px;
+}
+

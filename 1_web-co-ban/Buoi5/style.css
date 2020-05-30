@@ -1,0 +1,57 @@
+/* .nav-header {
+    position: fixed;
+    height: 70px;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 100;
+    background: ghostwhite;
+}
+
+.contend {
+    width: 300px;
+    height: 1000px;
+    background: blue;
+}
+
+i {
+    font-size: 100px;
+    position: absolute;
+    left: calc(50% - 24px);
+    top: calc(50% - 7.5px);
+} */
+
+.sub-header {
+    height: 70px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+}
+
+.span {
+    color: white;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.sub-header {
+    position: relative;
+}
+
+.list-product {
+    width: 100px;
+    text-align: center;
+    background-color: tomato;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    display: none;
+}
+
+.sub-header:hover .list-product {}

@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logoMixi {
+    padding-left: 200px;
+}
+
+
+/*Bỏ dấu tròn trước mỗi item*/
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    list-style-type: none;
+    padding-left: 350px;
+}
+
+
+/*Bỏ dấu gạch chân*/
+
+a {
+    text-decoration: none;
+    float: left;
+    color: #fff;
+    margin-left: 20px;
+}
+
+input {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    padding: 0 .75em;
+    height: 2.507em;
+    font-size: .97em;
+    max-width: 100%;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.screen-reader-text {
+    /*clip: rect(1px, 1px, 1px, 1px);*/
+    position: absolute!important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.find-info {
+    margin-left: 50%;
+}
+
+.menu {
+    display: flex;
+    background-color: #007784;
+    font-size: 15px;
+    font-family: "Lato", sans-serif;
+    line-height: 30px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+li {
+    font-weight: 600;
+}
+
+.banner img {
+    max-width: 100%;
+}
+
+.content {
+    text-align: center;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}

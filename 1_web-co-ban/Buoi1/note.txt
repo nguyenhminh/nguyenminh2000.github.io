@@ -1,0 +1,8 @@
+phím tắt mở new Terminal: Ctr + shift + '
+js thực hiện chức năng, tương tác trong trang web, tương tác với các element
+Truy vấn bằng Terminal:
+- 'cd buoi1' truy vấn folder buoi1
+- 'cd ..' truy vấn folder cha
+- 'dir' xem các tệp con trong folder hiện tại
+
+Nhúng link Js: cuối thẻ body <script type="text/javascript" src="Đường dẫn tới link"></script>

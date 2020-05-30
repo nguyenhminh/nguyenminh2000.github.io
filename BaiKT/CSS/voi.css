@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+	padding-left: 40px;
+	padding-right: 40px
+}
+
+body{
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	padding-bottom: 1000px;
+}
+
+a{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+a > img{
+	max-height: 600px;
+}
+
+h1{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    padding-top: 40px;
+}
+
+
+
+
+	
+
+
+

@@ -1,0 +1,33 @@
+GAME: trên Desktop - Mobile - web
+-> Trên Desktop + Mobile{C++; C#; Js; Pyth}
+
+Ở VN: Indie Game (1 -> 10) <100
+Để làm Game cần có Kịch bản -> scene(actors,...); Soufut; Artist(vẽ, âm thanh...)
+
+- Flash -> Macromedia (Adobe mua lại)
+- Silvarlight
+=>HTML5, Canvas, Javascript
++Canvas: Raster lưu trữ điểm ảnh trên một màn hình: HD(720p), FHD(1080p), 2K, 4K, 8K
++SVG: Scalable Vector Graphics: sử dụng công thức toán học để vẽ chữ, đoạn thẳng để k bị thừa điểm ảnh
+Làm Game cần chú đến khung hình trên giây "fps"
+
+
+
+
+
+
+
+
+
+1- caddy start: ycau kết nối vs http://localhost:2020/Buoi1/
+2- Window 
+-cmd: đời cũ "dir"
+mkdir tại ra thư mục
+-powershell: đời mới hỗ trợ 1 số lệnh giống vs Linux "ls", còn xịn hơn nữa thì cài WSL2 (Windows Subsystem Linux 2)
+Tại sao web dev pahir dùng Linux vì 100% web server triển khai trên Linux
+
+Photoshop chỉ chạy trên Mac, Windows. Để chạy trên Linux thì dùng Wine
+
+caddy start  bật caddy và chạy ngầm
+caddy stop
+3-DOM _ Document Object Model

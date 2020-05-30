@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.cv-body {
+    margin: 0 auto;
+    width: 100%;
+    min-height: 190mm;
+    position: relative;
+    font-family: robotocondensed, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+#cvo-profile-fullname {
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 42px;
+    line-height: 46px;
+    display: inline-block;
+    width: 500px;
+    text-shadow: -2px 2px #a6a7a8;
+}
+
+.cvo-header {
+    width: 100%;
+    min-height: 60px;
+    background-color: #7c7a79;
+    color: #fcf8e0;
+    text-align: left;
+    padding-left: 20px;
+}
+
+#cvo-profile-title {
+    width: 500px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.information {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 650;
+    background-color: oldlace;
+    color: black;
+    width: 700px;
+    height: 205px;
+    padding: 50px 10px;
+}
+
+img {
+    float: right;
+    max-width: 300px;
+    max-height: 200px;
+    border: 5px solid orange;
+    float: right;
+    position: absolute;
+    top: 1%;
+    right: 0;
+}
+
+.cv-main {
+    position: relative;
+}
+
+.info1 {
+    position: relative;
+}
+
+.info1a {
+    max-width: 30%;
+    height: 200px;
+    padding-top: 80px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: 19px;
+    color: black;
+}
+
+.info1b {
+    position: absolute;
+    left: 280px;
+    top: 70px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+hr {
+    margin-top: 5px;
+    border: 3px solid gray;
+}
+
+.line {
+    margin-top: 3px;
+    border: 3px solid gray;
+    margin-left: 282px;
+}
+
+.info1c {
+    position: absolute;
+    left: 280px;
+    top: 20px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+.info1d {
+    position: absolute;
+    left: 280px;
+    top: 70px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}

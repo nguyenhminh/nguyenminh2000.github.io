@@ -1,0 +1,8 @@
+_ Các thuộc tính của Display: block, inline, inline-block, none, flex, table
++none: xóa phần tử, đẩy ptu dưới lên
++vibisity: hidden dùng để xóa phần tử trong thẻ nhưng vẫn gửi nguyên ô vị trí của thẻ đó trên trình duyệt
+_ Các thuộc tính củaposition: 
++fixed: để cố định ví dụ như menu
++absolute: nó đè lên các thẻ khác
++relative: giới hạn phần tử trong một thẻ nào đóa
++z-index: trượt thanh dọc giữ cho menu luôn ở trên

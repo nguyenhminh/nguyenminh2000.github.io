@@ -1,0 +1,1 @@
+alert('Có quảng cáo nè ^^!')

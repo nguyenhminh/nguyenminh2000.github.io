@@ -1,0 +1,34 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	padding-bottom: 1000px;
+}
+
+a{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
+h1{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    padding-top: 40px;
+}
+
+p{
+	padding-top: 10px;
+	padding-left: 80px;
+	padding-right: 80px;
+	font-style: 100%;
+}
+
+
